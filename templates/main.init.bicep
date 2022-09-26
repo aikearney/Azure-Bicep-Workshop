@@ -71,7 +71,7 @@ resource rg 'Microsoft.Resources/resourceGroups@2021-04-01' = {
 
 // 2. Keyvault
 
-param resourcePrefix string = 'abw'
+param resourcePrefix string = 'ark'
 param keyVaultName string = '${resourcePrefix}${uniqueString(location)}kv'
 @secure()
 param dbuser string

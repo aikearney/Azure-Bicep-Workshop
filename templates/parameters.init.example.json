@@ -12,22 +12,22 @@
             }
         },
         "tenantId": {
-            "value": "<your-tenantId>"
+            "value": "b6c6d0d2-60b7-43c5-a090-b456fdea25b7"
         },
         "objectId": {
-            "value": "<your-objectId>"
+            "value": "96207a7c-69eb-492a-acc7-6effad0eddbb"
         },
         "subscriptionId": {
-            "value": "<your-subscrptionId>"
+            "value": "aaa23b5d-5921-4c88-84cb-ce7b7a6dcce1"
         },
         "location": {
-            "value": "<your-region>"
+            "value": "westeurope"
         },
         "groups": {
             "value": {
-                "owner": "<objectId-of-owner-group>",
-                "contributor": "<objectId-of-contributor-group>",
-                "reader": "<objectId-of-reader-group>"
+                "owner": "123c92cb-d6ca-4320-a918-10b9f23ebfaf",
+                "contributor": "bc0b5b41-4740-42a5-aee6-111af73ca5ce",
+                "reader": "e455d04a-c65e-4a55-9b62-0f9c04183420"
             }
         }
     }
